@@ -1,4 +1,4 @@
-Command(命令模式)                                                        --i(Esc)--                                                 Edit(编辑模式)
+Command(命令模式)                                                   --i(Esc)--                                                     Edit(编辑模式)
 
 保存退出   :wq  
 
